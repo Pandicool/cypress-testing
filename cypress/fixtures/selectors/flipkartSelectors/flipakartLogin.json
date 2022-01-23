@@ -1,0 +1,16 @@
+{
+  "loginBtn": "._1_3w1N",
+  "emailTextField": "._2IX_2-.VJZDxU",
+  "passwordTextField": "[type='password']",
+  "popUpLoginBtn": "._1D1L_j",
+  "username": ".zZ3yfL",
+  "logoutBtn": "//div[@class='_3vhnxf' and text()='Logout']",
+  "searchTab": "._3OO5Xc",
+  "item amount": "._30jeq3._1_WHN1",
+  "itemLoactor": "._2kHMtA > a",
+  "addCart": "._2KpZ6l._2U9uOA._3v1-ww",
+  "buyNow": "form > ._2KpZ6l",
+  "offerappliedAmt": "._2-ut7f._1WpvJ7",
+  "finalAmount": "._1dqRvU",
+  "placeOrder":"._2KpZ6l._2ObVJD._3AWRsL"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@paypalcorp/cypress-testing",
+  "version": "1.0.0",
+  "description": "cypress website testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandicool/Cypress-Testing.git"
+  },
+  "author": "Pandiya rajan A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandicool/Cypress-Testing/issues"
+  },
+  "homepage": "https://github.com/Pandicool/Cypress-Testing#readme",
+  "dependencies": {
+    "cypress": "^9.3.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
