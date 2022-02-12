@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Pandicool/Cypress-Testing#readme",
   "dependencies": {
     "cypress": "^9.3.1",
+    "cypress-iframe": "^1.0.1",
     "cypress-xpath": "^1.6.2"
   }
 }
