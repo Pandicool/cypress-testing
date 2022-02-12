@@ -1,0 +1,18 @@
+{
+    "signIn": "[data-nav-ref='nav_ya_signin']",
+    "accountInfo": "[data-nav-ref='nav_youraccount_btn']",
+    "emailField": "[name='email']",
+    "passwordField": "[name='password']",
+    "continueBtn": ".a-button-input",
+    "searchTab": "#twotabsearchtextbox",
+    "searchBtn": "#nav-search-submit-button",
+    "itemLocator": ".a-size-mini.a-spacing-none.a-color-base.s-line-clamp-2 > a",
+    "itemAmt": "//span[@class='a-offscreen']",
+    "cvv": "[name='addCreditCardVerificationNumber1']",
+    "paymentContinueBtn": ".a-button-inner",
+    "addToCart": "#add-to-cart-button",
+    "buyNow": "#buy-now-button",
+    "deliveryAddress": "//*[@id='address-book-entry-1']/div[2]",
+    "cartAmt": ":nth-child(6) > .a-text-right",
+    "logoutBtn": "#nav-item-signout"
+}
